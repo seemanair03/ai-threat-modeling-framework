@@ -1,0 +1,10 @@
+model_name: "Industrial Safety Chatbot"
+type: "NLP"
+lifecycle:
+  - Data Collection
+  - Model Training
+  - Deployment
+tags:
+  - LLM
+  - FastAPI
+  - Azure
