@@ -1,0 +1,1 @@
+This folder contains details of all the third party libraries used in this project for support.
