@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Data Poisoning",
+    "description": "Malicious manipulation of training data to compromise AI model integrity.",
+    "impact": "High",
+    "likelihood": "Medium"
+  },
+  {
+    "id": 2,
+    "name": "Model Evasion",
+    "description": "Attackers craft inputs to evade detection or classification by AI systems.",
+    "impact": "High",
+    "likelihood": "High"
+  },
+  {
+    "id": 3,
+    "name": "Model Theft",
+    "description": "Unauthorized extraction or replication of proprietary AI models.",
+    "impact": "Medium",
+    "likelihood": "Medium"
+  },
+  {
+    "id": 4,
+    "name": "Adversarial Attacks",
+    "description": "Inputs designed to fool AI models into making incorrect predictions.",
+    "impact": "High",
+    "likelihood": "High"
+  },
+  {
+    "id": 5,
+    "name": "Privacy Leakage",
+    "description": "AI models unintentionally reveal sensitive information from training data.",
+    "impact": "Medium",
+    "likelihood": "Medium"
+  }
+]
