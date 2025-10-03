@@ -1,4 +1,4 @@
-import yaml
+import yaml # pyright: ignore[reportMissingModuleSource]
 from framework.threat_taxonomy import load_threats
 
 def map_threats_to_model(model_profile_path):
