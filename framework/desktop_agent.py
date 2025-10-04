@@ -9,7 +9,7 @@ from openai import OpenAI
 # Create your PAT token by following instructions here: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 client = OpenAI(
     base_url = "https://models.github.ai/inference",
-    api_key = os.environ["GITHUB_TOKEN"],
+    api_key = os.environ["/<GITHUB_TOKEN>/"],
     default_query = {
         "api-version": "2024-08-01-preview",
     },
