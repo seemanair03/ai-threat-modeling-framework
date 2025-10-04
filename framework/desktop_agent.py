@@ -1,3 +1,6 @@
+"""Ethical and responsible use of AI is important. Ensure compliance with all relevant policies and guidelines when using AI models."""
+
+
 """Run this model in Python
 
 > pip install openai
